@@ -1,4 +1,4 @@
-# hello-world
-This repository is for practising the GitHub Flow.
+# 
+I am editing the README file. Adding some more details about the project description.
 
-I love coding and robotics :)
+
